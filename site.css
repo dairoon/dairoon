@@ -11,6 +11,8 @@
 .ghost-button{border:1px solid var(--ink);background:#fff;color:var(--ink);min-height:48px;justify-content:space-between;align-items:center;gap:28px;padding:12px 24px;font-size:14px;font-weight:700;display:inline-flex;transition:background .2s var(--ease),color .2s var(--ease)}
 .ghost-button:hover{background:var(--ink);color:#fff}
 .section-intro .eyebrow{color:var(--blue)}
+.status-link{background:var(--ink);color:#fff;text-decoration:none}
+.status-link:hover{background:var(--blue);border-color:var(--blue)}
 .status-tag{display:inline-block;margin-top:14px;border:1px solid var(--ink);padding:2px 12px;font-size:12px;font-weight:700;line-height:1.7}
 .item-grid{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(5,minmax(0,1fr));border-top:1px solid var(--ink);min-width:0}
 .item-card{padding:22px 16px 28px 0;border-bottom:1px solid var(--line);min-width:0}
